@@ -1,0 +1,15 @@
+#site-title {
+	margin-right: 0;
+	margin-left: 10%;
+	font-size: 2rem;
+}
+
+#menu-social-items {
+	margin-right: 10%;
+	font-size: 1.25rem;
+  margin-left: 10px;
+}
+
+#menu-items ul li{
+	margin-left: 15px;
+}
